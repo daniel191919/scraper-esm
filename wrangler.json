@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "scraper-esm",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ae4d6abb-5077-40ad-81ce-a8fe4e424f72",
+      "database_name": "webinars-beta2"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
